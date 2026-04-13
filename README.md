@@ -29,7 +29,7 @@ calculator-web-app/ <br>
 - 3. Supports continuous operations
 
 <br>  
-🌐 Live Demo 👉🏻 [GitHub](https://your-username.github.io/calculator-web-app/)  
+🌐 Live Demo 👉🏻 https://suraj-charan-dev.github.io/calculator-web-app/  
 <br>  
 <br>  
 🤝 Contributing  
